@@ -168,7 +168,7 @@ p{
 
 /* Media Section */
 
-@media (max-width: 1080px){
+@media (max-width: 1300px){
     #title{
         text-align: center;
     }
